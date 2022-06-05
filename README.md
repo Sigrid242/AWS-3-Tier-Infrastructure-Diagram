@@ -1,5 +1,5 @@
+Simple scenario of a 3 tier architecture:
 
-Scenario
 A company wants to build a three-tier web app with maximum security 
 against internet vulnerabilities such as DDOS attack behind an application load balancer. 
 The solution must be highly available, and scalable to accommodate to the volume of requests. 
